@@ -1,4 +1,4 @@
-import ClassModel from "../models/Class";
+import ClassModel from "../models/Class.js";
 
 export const createClass = async ({ subject, schedule, createdBy }) => {
   const newClass = new ClassModel({ subject, schedule, createdBy });

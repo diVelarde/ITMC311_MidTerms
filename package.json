@@ -17,7 +17,7 @@
     "url": "https://github.com/diVelarde/ITMC311_MidTerms/issues"
   },
   "homepage": "https://github.com/diVelarde/ITMC311_MidTerms#readme",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
