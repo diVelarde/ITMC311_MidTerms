@@ -1,0 +1,10 @@
+{
+  "name": "attendance-frontend",
+  "version": "0.1.0",
+  "description": "Simple frontend scaffold for Student Attendance Tracker",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "license": "MIT"
+}
