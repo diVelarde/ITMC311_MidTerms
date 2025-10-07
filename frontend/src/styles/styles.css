@@ -10,3 +10,8 @@ form{display:flex;flex-direction:column;gap:8px}
 input,button{padding:8px;border:1px solid #ddd;border-radius:4px}
 button{background:var(--accent);color:#fff;border:0;cursor:pointer}
 .error{color:#c0392b;font-size:12px;height:14px}
+
+.student-list ul { list-style:none;padding:0;margin:8px 0 }
+.student-list li { padding:8px;border-bottom:1px solid #f0f0f0;display:flex;align-items:center;justify-content:space-between }
+.add-student { margin-bottom:12px }
+.students button { background:#e74c3c }
